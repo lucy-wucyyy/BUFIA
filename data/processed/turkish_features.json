@@ -1,0 +1,3215 @@
+[
+  {
+    "orthography": "ev",
+    "ipa": "ev",
+    "gloss": "house",
+    "segments": [
+      "e",
+      "v"
+    ],
+    "features": [
+      {
+        "syl": "+",
+        "cons": "-",
+        "son": "+",
+        "cont": "+",
+        "voi": "+",
+        "hi": "-",
+        "lo": "-",
+        "back": "-",
+        "round": "-",
+        "tense": "+"
+      },
+      {
+        "syl": "-",
+        "cons": "+",
+        "son": "-",
+        "cont": "+",
+        "delrel": "-",
+        "voi": "+",
+        "ant": "+",
+        "cor": "-",
+        "lab": "+",
+        "strid": "+"
+      }
+    ]
+  },
+  {
+    "orthography": "kız",
+    "ipa": "kɯz",
+    "gloss": "girl",
+    "segments": [
+      "k",
+      "ɯ",
+      "z"
+    ],
+    "features": [
+      {
+        "syl": "-",
+        "cons": "+",
+        "son": "-",
+        "cont": "-",
+        "delrel": "-",
+        "voi": "-",
+        "ant": "-",
+        "cor": "-",
+        "lab": "-",
+        "hi": "+",
+        "back": "+"
+      },
+      {
+        "syl": "+",
+        "cons": "-",
+        "son": "+",
+        "cont": "+",
+        "voi": "+",
+        "hi": "+",
+        "lo": "-",
+        "back": "+",
+        "round": "-",
+        "tense": "+"
+      },
+      {
+        "syl": "-",
+        "cons": "+",
+        "son": "-",
+        "cont": "+",
+        "delrel": "-",
+        "voi": "+",
+        "ant": "+",
+        "cor": "+",
+        "strid": "+"
+      }
+    ]
+  },
+  {
+    "orthography": "göz",
+    "ipa": "ɟøz",
+    "gloss": "eye",
+    "segments": [
+      "ɟ",
+      "ø",
+      "z"
+    ],
+    "features": [
+      {
+        "syl": "-",
+        "cons": "+",
+        "son": "-",
+        "cont": "-",
+        "delrel": "-",
+        "voi": "+",
+        "ant": "-",
+        "cor": "-",
+        "lab": "-",
+        "hi": "+",
+        "back": "-"
+      },
+      {
+        "syl": "+",
+        "cons": "-",
+        "son": "+",
+        "cont": "+",
+        "voi": "+",
+        "hi": "-",
+        "lo": "-",
+        "back": "-",
+        "round": "+",
+        "tense": "+"
+      },
+      {
+        "syl": "-",
+        "cons": "+",
+        "son": "-",
+        "cont": "+",
+        "delrel": "-",
+        "voi": "+",
+        "ant": "+",
+        "cor": "+",
+        "strid": "+"
+      }
+    ]
+  },
+  {
+    "orthography": "güzel",
+    "ipa": "ɡyzæl",
+    "gloss": "beautiful",
+    "segments": [
+      "ɡ",
+      "y",
+      "z",
+      "æ",
+      "l"
+    ],
+    "features": [
+      {
+        "syl": "-",
+        "cons": "+",
+        "son": "-",
+        "cont": "-",
+        "delrel": "-",
+        "voi": "+",
+        "ant": "-",
+        "cor": "-",
+        "lab": "-",
+        "hi": "+",
+        "back": "+"
+      },
+      {
+        "syl": "+",
+        "cons": "-",
+        "son": "+",
+        "cont": "+",
+        "voi": "+",
+        "hi": "+",
+        "lo": "-",
+        "back": "-",
+        "round": "+",
+        "tense": "+"
+      },
+      {
+        "syl": "-",
+        "cons": "+",
+        "son": "-",
+        "cont": "+",
+        "delrel": "-",
+        "voi": "+",
+        "ant": "+",
+        "cor": "+",
+        "strid": "+"
+      },
+      {
+        "syl": "+",
+        "cons": "-",
+        "son": "+",
+        "cont": "+",
+        "voi": "+",
+        "hi": "-",
+        "lo": "+",
+        "back": "-",
+        "round": "-",
+        "tense": "+"
+      },
+      {
+        "syl": "-",
+        "cons": "+",
+        "son": "+",
+        "cont": "+",
+        "lat": "+",
+        "voi": "+",
+        "ant": "+",
+        "cor": "+"
+      }
+    ]
+  },
+  {
+    "orthography": "kitap",
+    "ipa": "kitap",
+    "gloss": "book",
+    "segments": [
+      "k",
+      "i",
+      "t",
+      "a",
+      "p"
+    ],
+    "features": [
+      {
+        "syl": "-",
+        "cons": "+",
+        "son": "-",
+        "cont": "-",
+        "delrel": "-",
+        "voi": "-",
+        "ant": "-",
+        "cor": "-",
+        "lab": "-",
+        "hi": "+",
+        "back": "+"
+      },
+      {
+        "syl": "+",
+        "cons": "-",
+        "son": "+",
+        "cont": "+",
+        "voi": "+",
+        "hi": "+",
+        "lo": "-",
+        "back": "-",
+        "round": "-",
+        "tense": "+"
+      },
+      {
+        "syl": "-",
+        "cons": "+",
+        "son": "-",
+        "cont": "-",
+        "delrel": "-",
+        "voi": "-",
+        "ant": "+",
+        "cor": "+",
+        "lab": "-"
+      },
+      {
+        "syl": "+",
+        "cons": "-",
+        "son": "+",
+        "cont": "+",
+        "voi": "+",
+        "hi": "-",
+        "lo": "+",
+        "back": "+",
+        "round": "-",
+        "tense": "+"
+      },
+      {
+        "syl": "-",
+        "cons": "+",
+        "son": "-",
+        "cont": "-",
+        "delrel": "-",
+        "voi": "-",
+        "ant": "+",
+        "cor": "-",
+        "lab": "+"
+      }
+    ]
+  },
+  {
+    "orthography": "okul",
+    "ipa": "okul",
+    "gloss": "school",
+    "segments": [
+      "o",
+      "k",
+      "u",
+      "l"
+    ],
+    "features": [
+      {
+        "syl": "+",
+        "cons": "-",
+        "son": "+",
+        "cont": "+",
+        "voi": "+",
+        "hi": "-",
+        "lo": "-",
+        "back": "+",
+        "round": "+",
+        "tense": "+"
+      },
+      {
+        "syl": "-",
+        "cons": "+",
+        "son": "-",
+        "cont": "-",
+        "delrel": "-",
+        "voi": "-",
+        "ant": "-",
+        "cor": "-",
+        "lab": "-",
+        "hi": "+",
+        "back": "+"
+      },
+      {
+        "syl": "+",
+        "cons": "-",
+        "son": "+",
+        "cont": "+",
+        "voi": "+",
+        "hi": "+",
+        "lo": "-",
+        "back": "+",
+        "round": "+",
+        "tense": "+"
+      },
+      {
+        "syl": "-",
+        "cons": "+",
+        "son": "+",
+        "cont": "+",
+        "lat": "+",
+        "voi": "+",
+        "ant": "+",
+        "cor": "+"
+      }
+    ]
+  },
+  {
+    "orthography": "adam",
+    "ipa": "adam",
+    "gloss": "man",
+    "segments": [
+      "a",
+      "d",
+      "a",
+      "m"
+    ],
+    "features": [
+      {
+        "syl": "+",
+        "cons": "-",
+        "son": "+",
+        "cont": "+",
+        "voi": "+",
+        "hi": "-",
+        "lo": "+",
+        "back": "+",
+        "round": "-",
+        "tense": "+"
+      },
+      {
+        "syl": "-",
+        "cons": "+",
+        "son": "-",
+        "cont": "-",
+        "delrel": "-",
+        "voi": "+",
+        "ant": "+",
+        "cor": "+",
+        "lab": "-"
+      },
+      {
+        "syl": "+",
+        "cons": "-",
+        "son": "+",
+        "cont": "+",
+        "voi": "+",
+        "hi": "-",
+        "lo": "+",
+        "back": "+",
+        "round": "-",
+        "tense": "+"
+      },
+      {
+        "syl": "-",
+        "cons": "+",
+        "son": "+",
+        "cont": "-",
+        "nas": "+",
+        "voi": "+",
+        "ant": "+",
+        "cor": "-",
+        "lab": "+"
+      }
+    ]
+  },
+  {
+    "orthography": "kadın",
+    "ipa": "kadɯn",
+    "gloss": "woman",
+    "segments": [
+      "k",
+      "a",
+      "d",
+      "ɯ",
+      "n"
+    ],
+    "features": [
+      {
+        "syl": "-",
+        "cons": "+",
+        "son": "-",
+        "cont": "-",
+        "delrel": "-",
+        "voi": "-",
+        "ant": "-",
+        "cor": "-",
+        "lab": "-",
+        "hi": "+",
+        "back": "+"
+      },
+      {
+        "syl": "+",
+        "cons": "-",
+        "son": "+",
+        "cont": "+",
+        "voi": "+",
+        "hi": "-",
+        "lo": "+",
+        "back": "+",
+        "round": "-",
+        "tense": "+"
+      },
+      {
+        "syl": "-",
+        "cons": "+",
+        "son": "-",
+        "cont": "-",
+        "delrel": "-",
+        "voi": "+",
+        "ant": "+",
+        "cor": "+",
+        "lab": "-"
+      },
+      {
+        "syl": "+",
+        "cons": "-",
+        "son": "+",
+        "cont": "+",
+        "voi": "+",
+        "hi": "+",
+        "lo": "-",
+        "back": "+",
+        "round": "-",
+        "tense": "+"
+      },
+      {
+        "syl": "-",
+        "cons": "+",
+        "son": "+",
+        "cont": "-",
+        "nas": "+",
+        "voi": "+",
+        "ant": "+",
+        "cor": "+",
+        "lab": "-"
+      }
+    ]
+  },
+  {
+    "orthography": "çocuk",
+    "ipa": "t͡ʃod͡ʒuk",
+    "gloss": "child",
+    "segments": [
+      "t͡ʃ",
+      "o",
+      "d͡ʒ",
+      "u",
+      "k"
+    ],
+    "features": [
+      {
+        "syl": "-",
+        "cons": "+",
+        "son": "-",
+        "cont": "-",
+        "delrel": "+",
+        "voi": "-",
+        "ant": "-",
+        "cor": "+",
+        "strid": "+"
+      },
+      {
+        "syl": "+",
+        "cons": "-",
+        "son": "+",
+        "cont": "+",
+        "voi": "+",
+        "hi": "-",
+        "lo": "-",
+        "back": "+",
+        "round": "+",
+        "tense": "+"
+      },
+      {
+        "syl": "-",
+        "cons": "+",
+        "son": "-",
+        "cont": "-",
+        "delrel": "+",
+        "voi": "+",
+        "ant": "-",
+        "cor": "+",
+        "strid": "+"
+      },
+      {
+        "syl": "+",
+        "cons": "-",
+        "son": "+",
+        "cont": "+",
+        "voi": "+",
+        "hi": "+",
+        "lo": "-",
+        "back": "+",
+        "round": "+",
+        "tense": "+"
+      },
+      {
+        "syl": "-",
+        "cons": "+",
+        "son": "-",
+        "cont": "-",
+        "delrel": "-",
+        "voi": "-",
+        "ant": "-",
+        "cor": "-",
+        "lab": "-",
+        "hi": "+",
+        "back": "+"
+      }
+    ]
+  },
+  {
+    "orthography": "masa",
+    "ipa": "masa",
+    "gloss": "table",
+    "segments": [
+      "m",
+      "a",
+      "s",
+      "a"
+    ],
+    "features": [
+      {
+        "syl": "-",
+        "cons": "+",
+        "son": "+",
+        "cont": "-",
+        "nas": "+",
+        "voi": "+",
+        "ant": "+",
+        "cor": "-",
+        "lab": "+"
+      },
+      {
+        "syl": "+",
+        "cons": "-",
+        "son": "+",
+        "cont": "+",
+        "voi": "+",
+        "hi": "-",
+        "lo": "+",
+        "back": "+",
+        "round": "-",
+        "tense": "+"
+      },
+      {
+        "syl": "-",
+        "cons": "+",
+        "son": "-",
+        "cont": "+",
+        "delrel": "-",
+        "voi": "-",
+        "ant": "+",
+        "cor": "+",
+        "strid": "+"
+      },
+      {
+        "syl": "+",
+        "cons": "-",
+        "son": "+",
+        "cont": "+",
+        "voi": "+",
+        "hi": "-",
+        "lo": "+",
+        "back": "+",
+        "round": "-",
+        "tense": "+"
+      }
+    ]
+  },
+  {
+    "orthography": "sandalye",
+    "ipa": "sandaʎe",
+    "gloss": "chair",
+    "segments": [
+      "s",
+      "a",
+      "n",
+      "d",
+      "a",
+      "ʎ",
+      "e"
+    ],
+    "features": [
+      {
+        "syl": "-",
+        "cons": "+",
+        "son": "-",
+        "cont": "+",
+        "delrel": "-",
+        "voi": "-",
+        "ant": "+",
+        "cor": "+",
+        "strid": "+"
+      },
+      {
+        "syl": "+",
+        "cons": "-",
+        "son": "+",
+        "cont": "+",
+        "voi": "+",
+        "hi": "-",
+        "lo": "+",
+        "back": "+",
+        "round": "-",
+        "tense": "+"
+      },
+      {
+        "syl": "-",
+        "cons": "+",
+        "son": "+",
+        "cont": "-",
+        "nas": "+",
+        "voi": "+",
+        "ant": "+",
+        "cor": "+",
+        "lab": "-"
+      },
+      {
+        "syl": "-",
+        "cons": "+",
+        "son": "-",
+        "cont": "-",
+        "delrel": "-",
+        "voi": "+",
+        "ant": "+",
+        "cor": "+",
+        "lab": "-"
+      },
+      {
+        "syl": "+",
+        "cons": "-",
+        "son": "+",
+        "cont": "+",
+        "voi": "+",
+        "hi": "-",
+        "lo": "+",
+        "back": "+",
+        "round": "-",
+        "tense": "+"
+      },
+      {
+        "syl": "-",
+        "cons": "+",
+        "son": "+",
+        "cont": "+",
+        "lat": "+",
+        "voi": "+",
+        "ant": "-",
+        "cor": "+",
+        "hi": "+",
+        "back": "-"
+      },
+      {
+        "syl": "+",
+        "cons": "-",
+        "son": "+",
+        "cont": "+",
+        "voi": "+",
+        "hi": "-",
+        "lo": "-",
+        "back": "-",
+        "round": "-",
+        "tense": "+"
+      }
+    ]
+  },
+  {
+    "orthography": "pencere",
+    "ipa": "pend͡ʒeɾe",
+    "gloss": "window",
+    "segments": [
+      "p",
+      "e",
+      "n",
+      "d͡ʒ",
+      "e",
+      "ɾ",
+      "e"
+    ],
+    "features": [
+      {
+        "syl": "-",
+        "cons": "+",
+        "son": "-",
+        "cont": "-",
+        "delrel": "-",
+        "voi": "-",
+        "ant": "+",
+        "cor": "-",
+        "lab": "+"
+      },
+      {
+        "syl": "+",
+        "cons": "-",
+        "son": "+",
+        "cont": "+",
+        "voi": "+",
+        "hi": "-",
+        "lo": "-",
+        "back": "-",
+        "round": "-",
+        "tense": "+"
+      },
+      {
+        "syl": "-",
+        "cons": "+",
+        "son": "+",
+        "cont": "-",
+        "nas": "+",
+        "voi": "+",
+        "ant": "+",
+        "cor": "+",
+        "lab": "-"
+      },
+      {
+        "syl": "-",
+        "cons": "+",
+        "son": "-",
+        "cont": "-",
+        "delrel": "+",
+        "voi": "+",
+        "ant": "-",
+        "cor": "+",
+        "strid": "+"
+      },
+      {
+        "syl": "+",
+        "cons": "-",
+        "son": "+",
+        "cont": "+",
+        "voi": "+",
+        "hi": "-",
+        "lo": "-",
+        "back": "-",
+        "round": "-",
+        "tense": "+"
+      },
+      {
+        "syl": "-",
+        "cons": "+",
+        "son": "+",
+        "cont": "-",
+        "lat": "-",
+        "voi": "+",
+        "ant": "+",
+        "cor": "+"
+      },
+      {
+        "syl": "+",
+        "cons": "-",
+        "son": "+",
+        "cont": "+",
+        "voi": "+",
+        "hi": "-",
+        "lo": "-",
+        "back": "-",
+        "round": "-",
+        "tense": "+"
+      }
+    ]
+  },
+  {
+    "orthography": "kapı",
+    "ipa": "kapɯ",
+    "gloss": "door",
+    "segments": [
+      "k",
+      "a",
+      "p",
+      "ɯ"
+    ],
+    "features": [
+      {
+        "syl": "-",
+        "cons": "+",
+        "son": "-",
+        "cont": "-",
+        "delrel": "-",
+        "voi": "-",
+        "ant": "-",
+        "cor": "-",
+        "lab": "-",
+        "hi": "+",
+        "back": "+"
+      },
+      {
+        "syl": "+",
+        "cons": "-",
+        "son": "+",
+        "cont": "+",
+        "voi": "+",
+        "hi": "-",
+        "lo": "+",
+        "back": "+",
+        "round": "-",
+        "tense": "+"
+      },
+      {
+        "syl": "-",
+        "cons": "+",
+        "son": "-",
+        "cont": "-",
+        "delrel": "-",
+        "voi": "-",
+        "ant": "+",
+        "cor": "-",
+        "lab": "+"
+      },
+      {
+        "syl": "+",
+        "cons": "-",
+        "son": "+",
+        "cont": "+",
+        "voi": "+",
+        "hi": "+",
+        "lo": "-",
+        "back": "+",
+        "round": "-",
+        "tense": "+"
+      }
+    ]
+  },
+  {
+    "orthography": "köprü",
+    "ipa": "køpɾy",
+    "gloss": "bridge",
+    "segments": [
+      "k",
+      "ø",
+      "p",
+      "ɾ",
+      "y"
+    ],
+    "features": [
+      {
+        "syl": "-",
+        "cons": "+",
+        "son": "-",
+        "cont": "-",
+        "delrel": "-",
+        "voi": "-",
+        "ant": "-",
+        "cor": "-",
+        "lab": "-",
+        "hi": "+",
+        "back": "+"
+      },
+      {
+        "syl": "+",
+        "cons": "-",
+        "son": "+",
+        "cont": "+",
+        "voi": "+",
+        "hi": "-",
+        "lo": "-",
+        "back": "-",
+        "round": "+",
+        "tense": "+"
+      },
+      {
+        "syl": "-",
+        "cons": "+",
+        "son": "-",
+        "cont": "-",
+        "delrel": "-",
+        "voi": "-",
+        "ant": "+",
+        "cor": "-",
+        "lab": "+"
+      },
+      {
+        "syl": "-",
+        "cons": "+",
+        "son": "+",
+        "cont": "-",
+        "lat": "-",
+        "voi": "+",
+        "ant": "+",
+        "cor": "+"
+      },
+      {
+        "syl": "+",
+        "cons": "-",
+        "son": "+",
+        "cont": "+",
+        "voi": "+",
+        "hi": "+",
+        "lo": "-",
+        "back": "-",
+        "round": "+",
+        "tense": "+"
+      }
+    ]
+  },
+  {
+    "orthography": "dünya",
+    "ipa": "dynja",
+    "gloss": "world",
+    "segments": [
+      "d",
+      "y",
+      "n",
+      "j",
+      "a"
+    ],
+    "features": [
+      {
+        "syl": "-",
+        "cons": "+",
+        "son": "-",
+        "cont": "-",
+        "delrel": "-",
+        "voi": "+",
+        "ant": "+",
+        "cor": "+",
+        "lab": "-"
+      },
+      {
+        "syl": "+",
+        "cons": "-",
+        "son": "+",
+        "cont": "+",
+        "voi": "+",
+        "hi": "+",
+        "lo": "-",
+        "back": "-",
+        "round": "+",
+        "tense": "+"
+      },
+      {
+        "syl": "-",
+        "cons": "+",
+        "son": "+",
+        "cont": "-",
+        "nas": "+",
+        "voi": "+",
+        "ant": "+",
+        "cor": "+",
+        "lab": "-"
+      },
+      {
+        "syl": "-",
+        "cons": "-",
+        "son": "+",
+        "cont": "+",
+        "voi": "+",
+        "hi": "+",
+        "back": "-"
+      },
+      {
+        "syl": "+",
+        "cons": "-",
+        "son": "+",
+        "cont": "+",
+        "voi": "+",
+        "hi": "-",
+        "lo": "+",
+        "back": "+",
+        "round": "-",
+        "tense": "+"
+      }
+    ]
+  },
+  {
+    "orthography": "hayat",
+    "ipa": "haját",
+    "gloss": "life",
+    "segments": [
+      "h",
+      "a",
+      "j",
+      "t"
+    ],
+    "features": [
+      {
+        "syl": "-",
+        "cons": "-",
+        "son": "-",
+        "cont": "+",
+        "delrel": "-",
+        "voi": "-",
+        "sg": "+"
+      },
+      {
+        "syl": "+",
+        "cons": "-",
+        "son": "+",
+        "cont": "+",
+        "voi": "+",
+        "hi": "-",
+        "lo": "+",
+        "back": "+",
+        "round": "-",
+        "tense": "+"
+      },
+      {
+        "syl": "-",
+        "cons": "-",
+        "son": "+",
+        "cont": "+",
+        "voi": "+",
+        "hi": "+",
+        "back": "-"
+      },
+      {
+        "syl": "-",
+        "cons": "+",
+        "son": "-",
+        "cont": "-",
+        "delrel": "-",
+        "voi": "-",
+        "ant": "+",
+        "cor": "+",
+        "lab": "-"
+      }
+    ]
+  },
+  {
+    "orthography": "insan",
+    "ipa": "insan",
+    "gloss": "human",
+    "segments": [
+      "i",
+      "n",
+      "s",
+      "a",
+      "n"
+    ],
+    "features": [
+      {
+        "syl": "+",
+        "cons": "-",
+        "son": "+",
+        "cont": "+",
+        "voi": "+",
+        "hi": "+",
+        "lo": "-",
+        "back": "-",
+        "round": "-",
+        "tense": "+"
+      },
+      {
+        "syl": "-",
+        "cons": "+",
+        "son": "+",
+        "cont": "-",
+        "nas": "+",
+        "voi": "+",
+        "ant": "+",
+        "cor": "+",
+        "lab": "-"
+      },
+      {
+        "syl": "-",
+        "cons": "+",
+        "son": "-",
+        "cont": "+",
+        "delrel": "-",
+        "voi": "-",
+        "ant": "+",
+        "cor": "+",
+        "strid": "+"
+      },
+      {
+        "syl": "+",
+        "cons": "-",
+        "son": "+",
+        "cont": "+",
+        "voi": "+",
+        "hi": "-",
+        "lo": "+",
+        "back": "+",
+        "round": "-",
+        "tense": "+"
+      },
+      {
+        "syl": "-",
+        "cons": "+",
+        "son": "+",
+        "cont": "-",
+        "nas": "+",
+        "voi": "+",
+        "ant": "+",
+        "cor": "+",
+        "lab": "-"
+      }
+    ]
+  },
+  {
+    "orthography": "şehir",
+    "ipa": "ʃehiɾ",
+    "gloss": "city",
+    "segments": [
+      "ʃ",
+      "e",
+      "h",
+      "i",
+      "ɾ"
+    ],
+    "features": [
+      {
+        "syl": "-",
+        "cons": "+",
+        "son": "-",
+        "cont": "+",
+        "delrel": "-",
+        "voi": "-",
+        "ant": "-",
+        "cor": "+",
+        "strid": "+"
+      },
+      {
+        "syl": "+",
+        "cons": "-",
+        "son": "+",
+        "cont": "+",
+        "voi": "+",
+        "hi": "-",
+        "lo": "-",
+        "back": "-",
+        "round": "-",
+        "tense": "+"
+      },
+      {
+        "syl": "-",
+        "cons": "-",
+        "son": "-",
+        "cont": "+",
+        "delrel": "-",
+        "voi": "-",
+        "sg": "+"
+      },
+      {
+        "syl": "+",
+        "cons": "-",
+        "son": "+",
+        "cont": "+",
+        "voi": "+",
+        "hi": "+",
+        "lo": "-",
+        "back": "-",
+        "round": "-",
+        "tense": "+"
+      },
+      {
+        "syl": "-",
+        "cons": "+",
+        "son": "+",
+        "cont": "-",
+        "lat": "-",
+        "voi": "+",
+        "ant": "+",
+        "cor": "+"
+      }
+    ]
+  },
+  {
+    "orthography": "yol",
+    "ipa": "jol",
+    "gloss": "road",
+    "segments": [
+      "j",
+      "o",
+      "l"
+    ],
+    "features": [
+      {
+        "syl": "-",
+        "cons": "-",
+        "son": "+",
+        "cont": "+",
+        "voi": "+",
+        "hi": "+",
+        "back": "-"
+      },
+      {
+        "syl": "+",
+        "cons": "-",
+        "son": "+",
+        "cont": "+",
+        "voi": "+",
+        "hi": "-",
+        "lo": "-",
+        "back": "+",
+        "round": "+",
+        "tense": "+"
+      },
+      {
+        "syl": "-",
+        "cons": "+",
+        "son": "+",
+        "cont": "+",
+        "lat": "+",
+        "voi": "+",
+        "ant": "+",
+        "cor": "+"
+      }
+    ]
+  },
+  {
+    "orthography": "su",
+    "ipa": "su",
+    "gloss": "water",
+    "segments": [
+      "s",
+      "u"
+    ],
+    "features": [
+      {
+        "syl": "-",
+        "cons": "+",
+        "son": "-",
+        "cont": "+",
+        "delrel": "-",
+        "voi": "-",
+        "ant": "+",
+        "cor": "+",
+        "strid": "+"
+      },
+      {
+        "syl": "+",
+        "cons": "-",
+        "son": "+",
+        "cont": "+",
+        "voi": "+",
+        "hi": "+",
+        "lo": "-",
+        "back": "+",
+        "round": "+",
+        "tense": "+"
+      }
+    ]
+  },
+  {
+    "orthography": "ağaç",
+    "ipa": "aːt͡ʃ",
+    "gloss": "tree",
+    "segments": [
+      "a",
+      "t͡ʃ"
+    ],
+    "features": [
+      {
+        "syl": "+",
+        "cons": "-",
+        "son": "+",
+        "cont": "+",
+        "voi": "+",
+        "hi": "-",
+        "lo": "+",
+        "back": "+",
+        "round": "-",
+        "tense": "+"
+      },
+      {
+        "syl": "-",
+        "cons": "+",
+        "son": "-",
+        "cont": "-",
+        "delrel": "+",
+        "voi": "-",
+        "ant": "-",
+        "cor": "+",
+        "strid": "+"
+      }
+    ]
+  },
+  {
+    "orthography": "dağ",
+    "ipa": "daː",
+    "gloss": "mountain",
+    "segments": [
+      "d",
+      "a"
+    ],
+    "features": [
+      {
+        "syl": "-",
+        "cons": "+",
+        "son": "-",
+        "cont": "-",
+        "delrel": "-",
+        "voi": "+",
+        "ant": "+",
+        "cor": "+",
+        "lab": "-"
+      },
+      {
+        "syl": "+",
+        "cons": "-",
+        "son": "+",
+        "cont": "+",
+        "voi": "+",
+        "hi": "-",
+        "lo": "+",
+        "back": "+",
+        "round": "-",
+        "tense": "+"
+      }
+    ]
+  },
+  {
+    "orthography": "deniz",
+    "ipa": "deniz",
+    "gloss": "sea",
+    "segments": [
+      "d",
+      "e",
+      "n",
+      "i",
+      "z"
+    ],
+    "features": [
+      {
+        "syl": "-",
+        "cons": "+",
+        "son": "-",
+        "cont": "-",
+        "delrel": "-",
+        "voi": "+",
+        "ant": "+",
+        "cor": "+",
+        "lab": "-"
+      },
+      {
+        "syl": "+",
+        "cons": "-",
+        "son": "+",
+        "cont": "+",
+        "voi": "+",
+        "hi": "-",
+        "lo": "-",
+        "back": "-",
+        "round": "-",
+        "tense": "+"
+      },
+      {
+        "syl": "-",
+        "cons": "+",
+        "son": "+",
+        "cont": "-",
+        "nas": "+",
+        "voi": "+",
+        "ant": "+",
+        "cor": "+",
+        "lab": "-"
+      },
+      {
+        "syl": "+",
+        "cons": "-",
+        "son": "+",
+        "cont": "+",
+        "voi": "+",
+        "hi": "+",
+        "lo": "-",
+        "back": "-",
+        "round": "-",
+        "tense": "+"
+      },
+      {
+        "syl": "-",
+        "cons": "+",
+        "son": "-",
+        "cont": "+",
+        "delrel": "-",
+        "voi": "+",
+        "ant": "+",
+        "cor": "+",
+        "strid": "+"
+      }
+    ]
+  },
+  {
+    "orthography": "gökyüzü",
+    "ipa": "ɟøcyzy",
+    "gloss": "sky",
+    "segments": [
+      "ɟ",
+      "ø",
+      "c",
+      "y",
+      "z",
+      "y"
+    ],
+    "features": [
+      {
+        "syl": "-",
+        "cons": "+",
+        "son": "-",
+        "cont": "-",
+        "delrel": "-",
+        "voi": "+",
+        "ant": "-",
+        "cor": "-",
+        "lab": "-",
+        "hi": "+",
+        "back": "-"
+      },
+      {
+        "syl": "+",
+        "cons": "-",
+        "son": "+",
+        "cont": "+",
+        "voi": "+",
+        "hi": "-",
+        "lo": "-",
+        "back": "-",
+        "round": "+",
+        "tense": "+"
+      },
+      {
+        "syl": "-",
+        "cons": "+",
+        "son": "-",
+        "cont": "-",
+        "delrel": "-",
+        "voi": "-",
+        "ant": "-",
+        "cor": "-",
+        "lab": "-",
+        "hi": "+",
+        "back": "-"
+      },
+      {
+        "syl": "+",
+        "cons": "-",
+        "son": "+",
+        "cont": "+",
+        "voi": "+",
+        "hi": "+",
+        "lo": "-",
+        "back": "-",
+        "round": "+",
+        "tense": "+"
+      },
+      {
+        "syl": "-",
+        "cons": "+",
+        "son": "-",
+        "cont": "+",
+        "delrel": "-",
+        "voi": "+",
+        "ant": "+",
+        "cor": "+",
+        "strid": "+"
+      },
+      {
+        "syl": "+",
+        "cons": "-",
+        "son": "+",
+        "cont": "+",
+        "voi": "+",
+        "hi": "+",
+        "lo": "-",
+        "back": "-",
+        "round": "+",
+        "tense": "+"
+      }
+    ]
+  },
+  {
+    "orthography": "yıldız",
+    "ipa": "jɯldɯz",
+    "gloss": "star",
+    "segments": [
+      "j",
+      "ɯ",
+      "l",
+      "d",
+      "ɯ",
+      "z"
+    ],
+    "features": [
+      {
+        "syl": "-",
+        "cons": "-",
+        "son": "+",
+        "cont": "+",
+        "voi": "+",
+        "hi": "+",
+        "back": "-"
+      },
+      {
+        "syl": "+",
+        "cons": "-",
+        "son": "+",
+        "cont": "+",
+        "voi": "+",
+        "hi": "+",
+        "lo": "-",
+        "back": "+",
+        "round": "-",
+        "tense": "+"
+      },
+      {
+        "syl": "-",
+        "cons": "+",
+        "son": "+",
+        "cont": "+",
+        "lat": "+",
+        "voi": "+",
+        "ant": "+",
+        "cor": "+"
+      },
+      {
+        "syl": "-",
+        "cons": "+",
+        "son": "-",
+        "cont": "-",
+        "delrel": "-",
+        "voi": "+",
+        "ant": "+",
+        "cor": "+",
+        "lab": "-"
+      },
+      {
+        "syl": "+",
+        "cons": "-",
+        "son": "+",
+        "cont": "+",
+        "voi": "+",
+        "hi": "+",
+        "lo": "-",
+        "back": "+",
+        "round": "-",
+        "tense": "+"
+      },
+      {
+        "syl": "-",
+        "cons": "+",
+        "son": "-",
+        "cont": "+",
+        "delrel": "-",
+        "voi": "+",
+        "ant": "+",
+        "cor": "+",
+        "strid": "+"
+      }
+    ]
+  },
+  {
+    "orthography": "ay",
+    "ipa": "aj",
+    "gloss": "moon",
+    "segments": [
+      "a",
+      "j"
+    ],
+    "features": [
+      {
+        "syl": "+",
+        "cons": "-",
+        "son": "+",
+        "cont": "+",
+        "voi": "+",
+        "hi": "-",
+        "lo": "+",
+        "back": "+",
+        "round": "-",
+        "tense": "+"
+      },
+      {
+        "syl": "-",
+        "cons": "-",
+        "son": "+",
+        "cont": "+",
+        "voi": "+",
+        "hi": "+",
+        "back": "-"
+      }
+    ]
+  },
+  {
+    "orthography": "güneş",
+    "ipa": "ɡyneʃ",
+    "gloss": "sun",
+    "segments": [
+      "ɡ",
+      "y",
+      "n",
+      "e",
+      "ʃ"
+    ],
+    "features": [
+      {
+        "syl": "-",
+        "cons": "+",
+        "son": "-",
+        "cont": "-",
+        "delrel": "-",
+        "voi": "+",
+        "ant": "-",
+        "cor": "-",
+        "lab": "-",
+        "hi": "+",
+        "back": "+"
+      },
+      {
+        "syl": "+",
+        "cons": "-",
+        "son": "+",
+        "cont": "+",
+        "voi": "+",
+        "hi": "+",
+        "lo": "-",
+        "back": "-",
+        "round": "+",
+        "tense": "+"
+      },
+      {
+        "syl": "-",
+        "cons": "+",
+        "son": "+",
+        "cont": "-",
+        "nas": "+",
+        "voi": "+",
+        "ant": "+",
+        "cor": "+",
+        "lab": "-"
+      },
+      {
+        "syl": "+",
+        "cons": "-",
+        "son": "+",
+        "cont": "+",
+        "voi": "+",
+        "hi": "-",
+        "lo": "-",
+        "back": "-",
+        "round": "-",
+        "tense": "+"
+      },
+      {
+        "syl": "-",
+        "cons": "+",
+        "son": "-",
+        "cont": "+",
+        "delrel": "-",
+        "voi": "-",
+        "ant": "-",
+        "cor": "+",
+        "strid": "+"
+      }
+    ]
+  },
+  {
+    "orthography": "sabah",
+    "ipa": "sabah",
+    "gloss": "morning",
+    "segments": [
+      "s",
+      "a",
+      "b",
+      "a",
+      "h"
+    ],
+    "features": [
+      {
+        "syl": "-",
+        "cons": "+",
+        "son": "-",
+        "cont": "+",
+        "delrel": "-",
+        "voi": "-",
+        "ant": "+",
+        "cor": "+",
+        "strid": "+"
+      },
+      {
+        "syl": "+",
+        "cons": "-",
+        "son": "+",
+        "cont": "+",
+        "voi": "+",
+        "hi": "-",
+        "lo": "+",
+        "back": "+",
+        "round": "-",
+        "tense": "+"
+      },
+      {
+        "syl": "-",
+        "cons": "+",
+        "son": "-",
+        "cont": "-",
+        "delrel": "-",
+        "voi": "+",
+        "ant": "+",
+        "cor": "-",
+        "lab": "+"
+      },
+      {
+        "syl": "+",
+        "cons": "-",
+        "son": "+",
+        "cont": "+",
+        "voi": "+",
+        "hi": "-",
+        "lo": "+",
+        "back": "+",
+        "round": "-",
+        "tense": "+"
+      },
+      {
+        "syl": "-",
+        "cons": "-",
+        "son": "-",
+        "cont": "+",
+        "delrel": "-",
+        "voi": "-",
+        "sg": "+"
+      }
+    ]
+  },
+  {
+    "orthography": "akşam",
+    "ipa": "akʃam",
+    "gloss": "evening",
+    "segments": [
+      "a",
+      "k",
+      "ʃ",
+      "a",
+      "m"
+    ],
+    "features": [
+      {
+        "syl": "+",
+        "cons": "-",
+        "son": "+",
+        "cont": "+",
+        "voi": "+",
+        "hi": "-",
+        "lo": "+",
+        "back": "+",
+        "round": "-",
+        "tense": "+"
+      },
+      {
+        "syl": "-",
+        "cons": "+",
+        "son": "-",
+        "cont": "-",
+        "delrel": "-",
+        "voi": "-",
+        "ant": "-",
+        "cor": "-",
+        "lab": "-",
+        "hi": "+",
+        "back": "+"
+      },
+      {
+        "syl": "-",
+        "cons": "+",
+        "son": "-",
+        "cont": "+",
+        "delrel": "-",
+        "voi": "-",
+        "ant": "-",
+        "cor": "+",
+        "strid": "+"
+      },
+      {
+        "syl": "+",
+        "cons": "-",
+        "son": "+",
+        "cont": "+",
+        "voi": "+",
+        "hi": "-",
+        "lo": "+",
+        "back": "+",
+        "round": "-",
+        "tense": "+"
+      },
+      {
+        "syl": "-",
+        "cons": "+",
+        "son": "+",
+        "cont": "-",
+        "nas": "+",
+        "voi": "+",
+        "ant": "+",
+        "cor": "-",
+        "lab": "+"
+      }
+    ]
+  },
+  {
+    "orthography": "gece",
+    "ipa": "ɟed͡ʒe",
+    "gloss": "night",
+    "segments": [
+      "ɟ",
+      "e",
+      "d͡ʒ",
+      "e"
+    ],
+    "features": [
+      {
+        "syl": "-",
+        "cons": "+",
+        "son": "-",
+        "cont": "-",
+        "delrel": "-",
+        "voi": "+",
+        "ant": "-",
+        "cor": "-",
+        "lab": "-",
+        "hi": "+",
+        "back": "-"
+      },
+      {
+        "syl": "+",
+        "cons": "-",
+        "son": "+",
+        "cont": "+",
+        "voi": "+",
+        "hi": "-",
+        "lo": "-",
+        "back": "-",
+        "round": "-",
+        "tense": "+"
+      },
+      {
+        "syl": "-",
+        "cons": "+",
+        "son": "-",
+        "cont": "-",
+        "delrel": "+",
+        "voi": "+",
+        "ant": "-",
+        "cor": "+",
+        "strid": "+"
+      },
+      {
+        "syl": "+",
+        "cons": "-",
+        "son": "+",
+        "cont": "+",
+        "voi": "+",
+        "hi": "-",
+        "lo": "-",
+        "back": "-",
+        "round": "-",
+        "tense": "+"
+      }
+    ]
+  },
+  {
+    "orthography": "gün",
+    "ipa": "ɡyn",
+    "gloss": "day",
+    "segments": [
+      "ɡ",
+      "y",
+      "n"
+    ],
+    "features": [
+      {
+        "syl": "-",
+        "cons": "+",
+        "son": "-",
+        "cont": "-",
+        "delrel": "-",
+        "voi": "+",
+        "ant": "-",
+        "cor": "-",
+        "lab": "-",
+        "hi": "+",
+        "back": "+"
+      },
+      {
+        "syl": "+",
+        "cons": "-",
+        "son": "+",
+        "cont": "+",
+        "voi": "+",
+        "hi": "+",
+        "lo": "-",
+        "back": "-",
+        "round": "+",
+        "tense": "+"
+      },
+      {
+        "syl": "-",
+        "cons": "+",
+        "son": "+",
+        "cont": "-",
+        "nas": "+",
+        "voi": "+",
+        "ant": "+",
+        "cor": "+",
+        "lab": "-"
+      }
+    ]
+  },
+  {
+    "orthography": "yıl",
+    "ipa": "jɯl",
+    "gloss": "year",
+    "segments": [
+      "j",
+      "ɯ",
+      "l"
+    ],
+    "features": [
+      {
+        "syl": "-",
+        "cons": "-",
+        "son": "+",
+        "cont": "+",
+        "voi": "+",
+        "hi": "+",
+        "back": "-"
+      },
+      {
+        "syl": "+",
+        "cons": "-",
+        "son": "+",
+        "cont": "+",
+        "voi": "+",
+        "hi": "+",
+        "lo": "-",
+        "back": "+",
+        "round": "-",
+        "tense": "+"
+      },
+      {
+        "syl": "-",
+        "cons": "+",
+        "son": "+",
+        "cont": "+",
+        "lat": "+",
+        "voi": "+",
+        "ant": "+",
+        "cor": "+"
+      }
+    ]
+  },
+  {
+    "orthography": "zaman",
+    "ipa": "zaman",
+    "gloss": "time",
+    "segments": [
+      "z",
+      "a",
+      "m",
+      "a",
+      "n"
+    ],
+    "features": [
+      {
+        "syl": "-",
+        "cons": "+",
+        "son": "-",
+        "cont": "+",
+        "delrel": "-",
+        "voi": "+",
+        "ant": "+",
+        "cor": "+",
+        "strid": "+"
+      },
+      {
+        "syl": "+",
+        "cons": "-",
+        "son": "+",
+        "cont": "+",
+        "voi": "+",
+        "hi": "-",
+        "lo": "+",
+        "back": "+",
+        "round": "-",
+        "tense": "+"
+      },
+      {
+        "syl": "-",
+        "cons": "+",
+        "son": "+",
+        "cont": "-",
+        "nas": "+",
+        "voi": "+",
+        "ant": "+",
+        "cor": "-",
+        "lab": "+"
+      },
+      {
+        "syl": "+",
+        "cons": "-",
+        "son": "+",
+        "cont": "+",
+        "voi": "+",
+        "hi": "-",
+        "lo": "+",
+        "back": "+",
+        "round": "-",
+        "tense": "+"
+      },
+      {
+        "syl": "-",
+        "cons": "+",
+        "son": "+",
+        "cont": "-",
+        "nas": "+",
+        "voi": "+",
+        "ant": "+",
+        "cor": "+",
+        "lab": "-"
+      }
+    ]
+  },
+  {
+    "orthography": "sonra",
+    "ipa": "sonɾa",
+    "gloss": "after",
+    "segments": [
+      "s",
+      "o",
+      "n",
+      "ɾ",
+      "a"
+    ],
+    "features": [
+      {
+        "syl": "-",
+        "cons": "+",
+        "son": "-",
+        "cont": "+",
+        "delrel": "-",
+        "voi": "-",
+        "ant": "+",
+        "cor": "+",
+        "strid": "+"
+      },
+      {
+        "syl": "+",
+        "cons": "-",
+        "son": "+",
+        "cont": "+",
+        "voi": "+",
+        "hi": "-",
+        "lo": "-",
+        "back": "+",
+        "round": "+",
+        "tense": "+"
+      },
+      {
+        "syl": "-",
+        "cons": "+",
+        "son": "+",
+        "cont": "-",
+        "nas": "+",
+        "voi": "+",
+        "ant": "+",
+        "cor": "+",
+        "lab": "-"
+      },
+      {
+        "syl": "-",
+        "cons": "+",
+        "son": "+",
+        "cont": "-",
+        "lat": "-",
+        "voi": "+",
+        "ant": "+",
+        "cor": "+"
+      },
+      {
+        "syl": "+",
+        "cons": "-",
+        "son": "+",
+        "cont": "+",
+        "voi": "+",
+        "hi": "-",
+        "lo": "+",
+        "back": "+",
+        "round": "-",
+        "tense": "+"
+      }
+    ]
+  },
+  {
+    "orthography": "önce",
+    "ipa": "ønʤe",
+    "gloss": "before",
+    "segments": [
+      "ø",
+      "n",
+      "ʤ",
+      "e"
+    ],
+    "features": [
+      {
+        "syl": "+",
+        "cons": "-",
+        "son": "+",
+        "cont": "+",
+        "voi": "+",
+        "hi": "-",
+        "lo": "-",
+        "back": "-",
+        "round": "+",
+        "tense": "+"
+      },
+      {
+        "syl": "-",
+        "cons": "+",
+        "son": "+",
+        "cont": "-",
+        "nas": "+",
+        "voi": "+",
+        "ant": "+",
+        "cor": "+",
+        "lab": "-"
+      },
+      {
+        "syl": "-",
+        "cons": "+",
+        "son": "-",
+        "cont": "-",
+        "delrel": "+",
+        "voi": "+",
+        "ant": "-",
+        "cor": "+",
+        "strid": "+"
+      },
+      {
+        "syl": "+",
+        "cons": "-",
+        "son": "+",
+        "cont": "+",
+        "voi": "+",
+        "hi": "-",
+        "lo": "-",
+        "back": "-",
+        "round": "-",
+        "tense": "+"
+      }
+    ]
+  },
+  {
+    "orthography": "büyük",
+    "ipa": "byjyk",
+    "gloss": "big",
+    "segments": [
+      "b",
+      "y",
+      "j",
+      "y",
+      "k"
+    ],
+    "features": [
+      {
+        "syl": "-",
+        "cons": "+",
+        "son": "-",
+        "cont": "-",
+        "delrel": "-",
+        "voi": "+",
+        "ant": "+",
+        "cor": "-",
+        "lab": "+"
+      },
+      {
+        "syl": "+",
+        "cons": "-",
+        "son": "+",
+        "cont": "+",
+        "voi": "+",
+        "hi": "+",
+        "lo": "-",
+        "back": "-",
+        "round": "+",
+        "tense": "+"
+      },
+      {
+        "syl": "-",
+        "cons": "-",
+        "son": "+",
+        "cont": "+",
+        "voi": "+",
+        "hi": "+",
+        "back": "-"
+      },
+      {
+        "syl": "+",
+        "cons": "-",
+        "son": "+",
+        "cont": "+",
+        "voi": "+",
+        "hi": "+",
+        "lo": "-",
+        "back": "-",
+        "round": "+",
+        "tense": "+"
+      },
+      {
+        "syl": "-",
+        "cons": "+",
+        "son": "-",
+        "cont": "-",
+        "delrel": "-",
+        "voi": "-",
+        "ant": "-",
+        "cor": "-",
+        "lab": "-",
+        "hi": "+",
+        "back": "+"
+      }
+    ]
+  },
+  {
+    "orthography": "küçük",
+    "ipa": "kyt͡ʃyk",
+    "gloss": "small",
+    "segments": [
+      "k",
+      "y",
+      "t͡ʃ",
+      "y",
+      "k"
+    ],
+    "features": [
+      {
+        "syl": "-",
+        "cons": "+",
+        "son": "-",
+        "cont": "-",
+        "delrel": "-",
+        "voi": "-",
+        "ant": "-",
+        "cor": "-",
+        "lab": "-",
+        "hi": "+",
+        "back": "+"
+      },
+      {
+        "syl": "+",
+        "cons": "-",
+        "son": "+",
+        "cont": "+",
+        "voi": "+",
+        "hi": "+",
+        "lo": "-",
+        "back": "-",
+        "round": "+",
+        "tense": "+"
+      },
+      {
+        "syl": "-",
+        "cons": "+",
+        "son": "-",
+        "cont": "-",
+        "delrel": "+",
+        "voi": "-",
+        "ant": "-",
+        "cor": "+",
+        "strid": "+"
+      },
+      {
+        "syl": "+",
+        "cons": "-",
+        "son": "+",
+        "cont": "+",
+        "voi": "+",
+        "hi": "+",
+        "lo": "-",
+        "back": "-",
+        "round": "+",
+        "tense": "+"
+      },
+      {
+        "syl": "-",
+        "cons": "+",
+        "son": "-",
+        "cont": "-",
+        "delrel": "-",
+        "voi": "-",
+        "ant": "-",
+        "cor": "-",
+        "lab": "-",
+        "hi": "+",
+        "back": "+"
+      }
+    ]
+  },
+  {
+    "orthography": "uzun",
+    "ipa": "uzun",
+    "gloss": "long",
+    "segments": [
+      "u",
+      "z",
+      "u",
+      "n"
+    ],
+    "features": [
+      {
+        "syl": "+",
+        "cons": "-",
+        "son": "+",
+        "cont": "+",
+        "voi": "+",
+        "hi": "+",
+        "lo": "-",
+        "back": "+",
+        "round": "+",
+        "tense": "+"
+      },
+      {
+        "syl": "-",
+        "cons": "+",
+        "son": "-",
+        "cont": "+",
+        "delrel": "-",
+        "voi": "+",
+        "ant": "+",
+        "cor": "+",
+        "strid": "+"
+      },
+      {
+        "syl": "+",
+        "cons": "-",
+        "son": "+",
+        "cont": "+",
+        "voi": "+",
+        "hi": "+",
+        "lo": "-",
+        "back": "+",
+        "round": "+",
+        "tense": "+"
+      },
+      {
+        "syl": "-",
+        "cons": "+",
+        "son": "+",
+        "cont": "-",
+        "nas": "+",
+        "voi": "+",
+        "ant": "+",
+        "cor": "+",
+        "lab": "-"
+      }
+    ]
+  },
+  {
+    "orthography": "kısa",
+    "ipa": "kɯsa",
+    "gloss": "short",
+    "segments": [
+      "k",
+      "ɯ",
+      "s",
+      "a"
+    ],
+    "features": [
+      {
+        "syl": "-",
+        "cons": "+",
+        "son": "-",
+        "cont": "-",
+        "delrel": "-",
+        "voi": "-",
+        "ant": "-",
+        "cor": "-",
+        "lab": "-",
+        "hi": "+",
+        "back": "+"
+      },
+      {
+        "syl": "+",
+        "cons": "-",
+        "son": "+",
+        "cont": "+",
+        "voi": "+",
+        "hi": "+",
+        "lo": "-",
+        "back": "+",
+        "round": "-",
+        "tense": "+"
+      },
+      {
+        "syl": "-",
+        "cons": "+",
+        "son": "-",
+        "cont": "+",
+        "delrel": "-",
+        "voi": "-",
+        "ant": "+",
+        "cor": "+",
+        "strid": "+"
+      },
+      {
+        "syl": "+",
+        "cons": "-",
+        "son": "+",
+        "cont": "+",
+        "voi": "+",
+        "hi": "-",
+        "lo": "+",
+        "back": "+",
+        "round": "-",
+        "tense": "+"
+      }
+    ]
+  },
+  {
+    "orthography": "yeni",
+    "ipa": "jeni",
+    "gloss": "new",
+    "segments": [
+      "j",
+      "e",
+      "n",
+      "i"
+    ],
+    "features": [
+      {
+        "syl": "-",
+        "cons": "-",
+        "son": "+",
+        "cont": "+",
+        "voi": "+",
+        "hi": "+",
+        "back": "-"
+      },
+      {
+        "syl": "+",
+        "cons": "-",
+        "son": "+",
+        "cont": "+",
+        "voi": "+",
+        "hi": "-",
+        "lo": "-",
+        "back": "-",
+        "round": "-",
+        "tense": "+"
+      },
+      {
+        "syl": "-",
+        "cons": "+",
+        "son": "+",
+        "cont": "-",
+        "nas": "+",
+        "voi": "+",
+        "ant": "+",
+        "cor": "+",
+        "lab": "-"
+      },
+      {
+        "syl": "+",
+        "cons": "-",
+        "son": "+",
+        "cont": "+",
+        "voi": "+",
+        "hi": "+",
+        "lo": "-",
+        "back": "-",
+        "round": "-",
+        "tense": "+"
+      }
+    ]
+  },
+  {
+    "orthography": "eski",
+    "ipa": "eski",
+    "gloss": "old",
+    "segments": [
+      "e",
+      "s",
+      "k",
+      "i"
+    ],
+    "features": [
+      {
+        "syl": "+",
+        "cons": "-",
+        "son": "+",
+        "cont": "+",
+        "voi": "+",
+        "hi": "-",
+        "lo": "-",
+        "back": "-",
+        "round": "-",
+        "tense": "+"
+      },
+      {
+        "syl": "-",
+        "cons": "+",
+        "son": "-",
+        "cont": "+",
+        "delrel": "-",
+        "voi": "-",
+        "ant": "+",
+        "cor": "+",
+        "strid": "+"
+      },
+      {
+        "syl": "-",
+        "cons": "+",
+        "son": "-",
+        "cont": "-",
+        "delrel": "-",
+        "voi": "-",
+        "ant": "-",
+        "cor": "-",
+        "lab": "-",
+        "hi": "+",
+        "back": "+"
+      },
+      {
+        "syl": "+",
+        "cons": "-",
+        "son": "+",
+        "cont": "+",
+        "voi": "+",
+        "hi": "+",
+        "lo": "-",
+        "back": "-",
+        "round": "-",
+        "tense": "+"
+      }
+    ]
+  },
+  {
+    "orthography": "iyi",
+    "ipa": "iji",
+    "gloss": "good",
+    "segments": [
+      "i",
+      "j",
+      "i"
+    ],
+    "features": [
+      {
+        "syl": "+",
+        "cons": "-",
+        "son": "+",
+        "cont": "+",
+        "voi": "+",
+        "hi": "+",
+        "lo": "-",
+        "back": "-",
+        "round": "-",
+        "tense": "+"
+      },
+      {
+        "syl": "-",
+        "cons": "-",
+        "son": "+",
+        "cont": "+",
+        "voi": "+",
+        "hi": "+",
+        "back": "-"
+      },
+      {
+        "syl": "+",
+        "cons": "-",
+        "son": "+",
+        "cont": "+",
+        "voi": "+",
+        "hi": "+",
+        "lo": "-",
+        "back": "-",
+        "round": "-",
+        "tense": "+"
+      }
+    ]
+  },
+  {
+    "orthography": "kötü",
+    "ipa": "køty",
+    "gloss": "bad",
+    "segments": [
+      "k",
+      "ø",
+      "t",
+      "y"
+    ],
+    "features": [
+      {
+        "syl": "-",
+        "cons": "+",
+        "son": "-",
+        "cont": "-",
+        "delrel": "-",
+        "voi": "-",
+        "ant": "-",
+        "cor": "-",
+        "lab": "-",
+        "hi": "+",
+        "back": "+"
+      },
+      {
+        "syl": "+",
+        "cons": "-",
+        "son": "+",
+        "cont": "+",
+        "voi": "+",
+        "hi": "-",
+        "lo": "-",
+        "back": "-",
+        "round": "+",
+        "tense": "+"
+      },
+      {
+        "syl": "-",
+        "cons": "+",
+        "son": "-",
+        "cont": "-",
+        "delrel": "-",
+        "voi": "-",
+        "ant": "+",
+        "cor": "+",
+        "lab": "-"
+      },
+      {
+        "syl": "+",
+        "cons": "-",
+        "son": "+",
+        "cont": "+",
+        "voi": "+",
+        "hi": "+",
+        "lo": "-",
+        "back": "-",
+        "round": "+",
+        "tense": "+"
+      }
+    ]
+  },
+  {
+    "orthography": "sıcak",
+    "ipa": "sɯd͡ʒak",
+    "gloss": "hot",
+    "segments": [
+      "s",
+      "ɯ",
+      "d͡ʒ",
+      "a",
+      "k"
+    ],
+    "features": [
+      {
+        "syl": "-",
+        "cons": "+",
+        "son": "-",
+        "cont": "+",
+        "delrel": "-",
+        "voi": "-",
+        "ant": "+",
+        "cor": "+",
+        "strid": "+"
+      },
+      {
+        "syl": "+",
+        "cons": "-",
+        "son": "+",
+        "cont": "+",
+        "voi": "+",
+        "hi": "+",
+        "lo": "-",
+        "back": "+",
+        "round": "-",
+        "tense": "+"
+      },
+      {
+        "syl": "-",
+        "cons": "+",
+        "son": "-",
+        "cont": "-",
+        "delrel": "+",
+        "voi": "+",
+        "ant": "-",
+        "cor": "+",
+        "strid": "+"
+      },
+      {
+        "syl": "+",
+        "cons": "-",
+        "son": "+",
+        "cont": "+",
+        "voi": "+",
+        "hi": "-",
+        "lo": "+",
+        "back": "+",
+        "round": "-",
+        "tense": "+"
+      },
+      {
+        "syl": "-",
+        "cons": "+",
+        "son": "-",
+        "cont": "-",
+        "delrel": "-",
+        "voi": "-",
+        "ant": "-",
+        "cor": "-",
+        "lab": "-",
+        "hi": "+",
+        "back": "+"
+      }
+    ]
+  },
+  {
+    "orthography": "soğuk",
+    "ipa": "souk",
+    "gloss": "cold",
+    "segments": [
+      "s",
+      "o",
+      "u",
+      "k"
+    ],
+    "features": [
+      {
+        "syl": "-",
+        "cons": "+",
+        "son": "-",
+        "cont": "+",
+        "delrel": "-",
+        "voi": "-",
+        "ant": "+",
+        "cor": "+",
+        "strid": "+"
+      },
+      {
+        "syl": "+",
+        "cons": "-",
+        "son": "+",
+        "cont": "+",
+        "voi": "+",
+        "hi": "-",
+        "lo": "-",
+        "back": "+",
+        "round": "+",
+        "tense": "+"
+      },
+      {
+        "syl": "+",
+        "cons": "-",
+        "son": "+",
+        "cont": "+",
+        "voi": "+",
+        "hi": "+",
+        "lo": "-",
+        "back": "+",
+        "round": "+",
+        "tense": "+"
+      },
+      {
+        "syl": "-",
+        "cons": "+",
+        "son": "-",
+        "cont": "-",
+        "delrel": "-",
+        "voi": "-",
+        "ant": "-",
+        "cor": "-",
+        "lab": "-",
+        "hi": "+",
+        "back": "+"
+      }
+    ]
+  },
+  {
+    "orthography": "beyaz",
+    "ipa": "bejaz",
+    "gloss": "white",
+    "segments": [
+      "b",
+      "e",
+      "j",
+      "a",
+      "z"
+    ],
+    "features": [
+      {
+        "syl": "-",
+        "cons": "+",
+        "son": "-",
+        "cont": "-",
+        "delrel": "-",
+        "voi": "+",
+        "ant": "+",
+        "cor": "-",
+        "lab": "+"
+      },
+      {
+        "syl": "+",
+        "cons": "-",
+        "son": "+",
+        "cont": "+",
+        "voi": "+",
+        "hi": "-",
+        "lo": "-",
+        "back": "-",
+        "round": "-",
+        "tense": "+"
+      },
+      {
+        "syl": "-",
+        "cons": "-",
+        "son": "+",
+        "cont": "+",
+        "voi": "+",
+        "hi": "+",
+        "back": "-"
+      },
+      {
+        "syl": "+",
+        "cons": "-",
+        "son": "+",
+        "cont": "+",
+        "voi": "+",
+        "hi": "-",
+        "lo": "+",
+        "back": "+",
+        "round": "-",
+        "tense": "+"
+      },
+      {
+        "syl": "-",
+        "cons": "+",
+        "son": "-",
+        "cont": "+",
+        "delrel": "-",
+        "voi": "+",
+        "ant": "+",
+        "cor": "+",
+        "strid": "+"
+      }
+    ]
+  },
+  {
+    "orthography": "siyah",
+    "ipa": "sijah",
+    "gloss": "black",
+    "segments": [
+      "s",
+      "i",
+      "j",
+      "a",
+      "h"
+    ],
+    "features": [
+      {
+        "syl": "-",
+        "cons": "+",
+        "son": "-",
+        "cont": "+",
+        "delrel": "-",
+        "voi": "-",
+        "ant": "+",
+        "cor": "+",
+        "strid": "+"
+      },
+      {
+        "syl": "+",
+        "cons": "-",
+        "son": "+",
+        "cont": "+",
+        "voi": "+",
+        "hi": "+",
+        "lo": "-",
+        "back": "-",
+        "round": "-",
+        "tense": "+"
+      },
+      {
+        "syl": "-",
+        "cons": "-",
+        "son": "+",
+        "cont": "+",
+        "voi": "+",
+        "hi": "+",
+        "back": "-"
+      },
+      {
+        "syl": "+",
+        "cons": "-",
+        "son": "+",
+        "cont": "+",
+        "voi": "+",
+        "hi": "-",
+        "lo": "+",
+        "back": "+",
+        "round": "-",
+        "tense": "+"
+      },
+      {
+        "syl": "-",
+        "cons": "-",
+        "son": "-",
+        "cont": "+",
+        "delrel": "-",
+        "voi": "-",
+        "sg": "+"
+      }
+    ]
+  },
+  {
+    "orthography": "kırmızı",
+    "ipa": "kɯɾmɯzɯ",
+    "gloss": "red",
+    "segments": [
+      "k",
+      "ɯ",
+      "ɾ",
+      "m",
+      "ɯ",
+      "z",
+      "ɯ"
+    ],
+    "features": [
+      {
+        "syl": "-",
+        "cons": "+",
+        "son": "-",
+        "cont": "-",
+        "delrel": "-",
+        "voi": "-",
+        "ant": "-",
+        "cor": "-",
+        "lab": "-",
+        "hi": "+",
+        "back": "+"
+      },
+      {
+        "syl": "+",
+        "cons": "-",
+        "son": "+",
+        "cont": "+",
+        "voi": "+",
+        "hi": "+",
+        "lo": "-",
+        "back": "+",
+        "round": "-",
+        "tense": "+"
+      },
+      {
+        "syl": "-",
+        "cons": "+",
+        "son": "+",
+        "cont": "-",
+        "lat": "-",
+        "voi": "+",
+        "ant": "+",
+        "cor": "+"
+      },
+      {
+        "syl": "-",
+        "cons": "+",
+        "son": "+",
+        "cont": "-",
+        "nas": "+",
+        "voi": "+",
+        "ant": "+",
+        "cor": "-",
+        "lab": "+"
+      },
+      {
+        "syl": "+",
+        "cons": "-",
+        "son": "+",
+        "cont": "+",
+        "voi": "+",
+        "hi": "+",
+        "lo": "-",
+        "back": "+",
+        "round": "-",
+        "tense": "+"
+      },
+      {
+        "syl": "-",
+        "cons": "+",
+        "son": "-",
+        "cont": "+",
+        "delrel": "-",
+        "voi": "+",
+        "ant": "+",
+        "cor": "+",
+        "strid": "+"
+      },
+      {
+        "syl": "+",
+        "cons": "-",
+        "son": "+",
+        "cont": "+",
+        "voi": "+",
+        "hi": "+",
+        "lo": "-",
+        "back": "+",
+        "round": "-",
+        "tense": "+"
+      }
+    ]
+  },
+  {
+    "orthography": "mavi",
+    "ipa": "mavi",
+    "gloss": "blue",
+    "segments": [
+      "m",
+      "a",
+      "v",
+      "i"
+    ],
+    "features": [
+      {
+        "syl": "-",
+        "cons": "+",
+        "son": "+",
+        "cont": "-",
+        "nas": "+",
+        "voi": "+",
+        "ant": "+",
+        "cor": "-",
+        "lab": "+"
+      },
+      {
+        "syl": "+",
+        "cons": "-",
+        "son": "+",
+        "cont": "+",
+        "voi": "+",
+        "hi": "-",
+        "lo": "+",
+        "back": "+",
+        "round": "-",
+        "tense": "+"
+      },
+      {
+        "syl": "-",
+        "cons": "+",
+        "son": "-",
+        "cont": "+",
+        "delrel": "-",
+        "voi": "+",
+        "ant": "+",
+        "cor": "-",
+        "lab": "+",
+        "strid": "+"
+      },
+      {
+        "syl": "+",
+        "cons": "-",
+        "son": "+",
+        "cont": "+",
+        "voi": "+",
+        "hi": "+",
+        "lo": "-",
+        "back": "-",
+        "round": "-",
+        "tense": "+"
+      }
+    ]
+  },
+  {
+    "orthography": "yeşil",
+    "ipa": "jeʃil",
+    "gloss": "green",
+    "segments": [
+      "j",
+      "e",
+      "ʃ",
+      "i",
+      "l"
+    ],
+    "features": [
+      {
+        "syl": "-",
+        "cons": "-",
+        "son": "+",
+        "cont": "+",
+        "voi": "+",
+        "hi": "+",
+        "back": "-"
+      },
+      {
+        "syl": "+",
+        "cons": "-",
+        "son": "+",
+        "cont": "+",
+        "voi": "+",
+        "hi": "-",
+        "lo": "-",
+        "back": "-",
+        "round": "-",
+        "tense": "+"
+      },
+      {
+        "syl": "-",
+        "cons": "+",
+        "son": "-",
+        "cont": "+",
+        "delrel": "-",
+        "voi": "-",
+        "ant": "-",
+        "cor": "+",
+        "strid": "+"
+      },
+      {
+        "syl": "+",
+        "cons": "-",
+        "son": "+",
+        "cont": "+",
+        "voi": "+",
+        "hi": "+",
+        "lo": "-",
+        "back": "-",
+        "round": "-",
+        "tense": "+"
+      },
+      {
+        "syl": "-",
+        "cons": "+",
+        "son": "+",
+        "cont": "+",
+        "lat": "+",
+        "voi": "+",
+        "ant": "+",
+        "cor": "+"
+      }
+    ]
+  },
+  {
+    "orthography": "sarı",
+    "ipa": "saɾɯ",
+    "gloss": "yellow",
+    "segments": [
+      "s",
+      "a",
+      "ɾ",
+      "ɯ"
+    ],
+    "features": [
+      {
+        "syl": "-",
+        "cons": "+",
+        "son": "-",
+        "cont": "+",
+        "delrel": "-",
+        "voi": "-",
+        "ant": "+",
+        "cor": "+",
+        "strid": "+"
+      },
+      {
+        "syl": "+",
+        "cons": "-",
+        "son": "+",
+        "cont": "+",
+        "voi": "+",
+        "hi": "-",
+        "lo": "+",
+        "back": "+",
+        "round": "-",
+        "tense": "+"
+      },
+      {
+        "syl": "-",
+        "cons": "+",
+        "son": "+",
+        "cont": "-",
+        "lat": "-",
+        "voi": "+",
+        "ant": "+",
+        "cor": "+"
+      },
+      {
+        "syl": "+",
+        "cons": "-",
+        "son": "+",
+        "cont": "+",
+        "voi": "+",
+        "hi": "+",
+        "lo": "-",
+        "back": "+",
+        "round": "-",
+        "tense": "+"
+      }
+    ]
+  }
+]

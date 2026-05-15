@@ -1,0 +1,39 @@
+# Simplified Turkish Feature Table (Vowel Harmony Focus)
+# Vowels: syl, back, round, hi
+# Consonants: -syl, voi
+
+a	syl back -round -hi
+b	-syl voi
+c	-syl -voi
+d	-syl voi
+d͡ʒ	-syl voi
+e	syl -back -round -hi
+f	-syl -voi
+g	-syl voi
+h	-syl -voi
+i	syl -back -round hi
+j	-syl voi
+k	-syl -voi
+l	-syl voi
+m	-syl voi
+n	-syl voi
+o	syl back round -hi
+p	-syl -voi
+r	-syl voi
+s	-syl -voi
+t	-syl -voi
+t͡ʃ	-syl -voi
+u	syl back round hi
+v	-syl voi
+y	syl -back round hi
+z	-syl voi
+æ	syl -back -round -hi
+ø	syl -back round -hi
+ɟ	-syl voi
+ɡ	-syl voi
+ɯ	syl back -round hi
+ɾ	-syl voi
+ʃ	-syl -voi
+ʎ	-syl voi
+ʒ	-syl voi
+ʤ	-syl voi
